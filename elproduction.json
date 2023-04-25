@@ -1,0 +1,531 @@
+[
+    {
+      "powerProductionBreakdown": {
+        "biomass": 403,
+        "coal": 362,
+        "wind": 568,
+        "solar": 83,
+        "gas": 116
+      },
+      "datetime": "2023-04-16T06:00:00.000Z",
+      "powerProductionTotal": 1532
+    },
+    {
+      "powerProductionBreakdown": {
+        "biomass": 412,
+        "coal": 378,
+        "wind": 574,
+        "solar": 136,
+        "gas": 125
+      },
+      "datetime": "2023-04-16T07:00:00.000Z",
+      "powerProductionTotal": 1625
+    },
+    {
+      "powerProductionBreakdown": {
+        "biomass": 416,
+        "coal": 382,
+        "wind": 530,
+        "solar": 191,
+        "gas": 131
+      },
+      "datetime": "2023-04-16T08:00:00.000Z",
+      "powerProductionTotal": 1650
+    },
+    {
+      "powerProductionBreakdown": {
+        "biomass": 425,
+        "coal": 392,
+        "wind": 482,
+        "solar": 251,
+        "gas": 135
+      },
+      "datetime": "2023-04-16T09:00:00.000Z",
+      "powerProductionTotal": 1685
+    },
+    {
+      "powerProductionBreakdown": {
+        "biomass": 442,
+        "coal": 407,
+        "wind": 446,
+        "solar": 309,
+        "gas": 134
+      },
+      "datetime": "2023-04-16T10:00:00.000Z",
+      "powerProductionTotal": 1738
+    },
+    {
+      "powerProductionBreakdown": {
+        "biomass": 455,
+        "coal": 406,
+        "wind": 399,
+        "solar": 359,
+        "gas": 129
+      },
+      "datetime": "2023-04-16T11:00:00.000Z",
+      "powerProductionTotal": 1748
+    },
+    {
+      "powerProductionBreakdown": {
+        "biomass": 448,
+        "coal": 400,
+        "wind": 363,
+        "solar": 362,
+        "gas": 125
+      },
+      "datetime": "2023-04-16T12:00:00.000Z",
+      "powerProductionTotal": 1698
+    },
+    {
+      "powerProductionBreakdown": {
+        "biomass": 438,
+        "coal": 391,
+        "wind": 328,
+        "solar": 343,
+        "gas": 123
+      },
+      "datetime": "2023-04-16T13:00:00.000Z",
+      "powerProductionTotal": 1623
+    },
+    {
+      "powerProductionBreakdown": {
+        "biomass": 430,
+        "coal": 373,
+        "wind": 328,
+        "solar": 282,
+        "gas": 123
+      },
+      "datetime": "2023-04-16T14:00:00.000Z",
+      "powerProductionTotal": 1536
+    },
+    {
+      "powerProductionBreakdown": {
+        "biomass": 417,
+        "coal": 357,
+        "wind": 272,
+        "solar": 196,
+        "gas": 128
+      },
+      "datetime": "2023-04-16T15:00:00.000Z",
+      "powerProductionTotal": 1370
+    },
+    {
+      "powerProductionBreakdown": {
+        "biomass": 395,
+        "coal": 333,
+        "wind": 186,
+        "solar": 110,
+        "gas": 135
+      },
+      "datetime": "2023-04-16T16:00:00.000Z",
+      "powerProductionTotal": 1159
+    },
+    {
+      "powerProductionBreakdown": {
+        "biomass": 379,
+        "coal": 314,
+        "wind": 159,
+        "solar": 36,
+        "gas": 136
+      },
+      "datetime": "2023-04-16T17:00:00.000Z",
+      "powerProductionTotal": 1024
+    },
+    {
+      "powerProductionBreakdown": {
+        "biomass": 370,
+        "coal": 298,
+        "wind": 146,
+        "solar": 5,
+        "gas": 136
+      },
+      "datetime": "2023-04-16T18:00:00.000Z",
+      "powerProductionTotal": 955
+    },
+    {
+      "powerProductionBreakdown": {
+        "biomass": 377,
+        "coal": 288,
+        "wind": 153,
+        "solar": 2,
+        "gas": 135
+      },
+      "datetime": "2023-04-16T19:00:00.000Z",
+      "powerProductionTotal": 955
+    },
+    {
+      "powerProductionBreakdown": {
+        "biomass": 378,
+        "coal": 279,
+        "wind": 135,
+        "solar": 1,
+        "gas": 130
+      },
+      "datetime": "2023-04-16T20:00:00.000Z",
+      "powerProductionTotal": 923
+    },
+    {
+      "powerProductionBreakdown": {
+        "biomass": 370,
+        "coal": 270,
+        "wind": 104,
+        "solar": 1,
+        "gas": 125
+      },
+      "datetime": "2023-04-16T21:00:00.000Z",
+      "powerProductionTotal": 870
+    },
+    {
+      "powerProductionBreakdown": {
+        "biomass": 308,
+        "coal": 191,
+        "wind": 330,
+        "solar": 29,
+        "gas": 80
+      },
+      "datetime": "2023-04-16T22:00:00.000Z",
+      "powerProductionTotal": 938
+    },
+    {
+      "powerProductionBreakdown": {
+        "biomass": 313,
+        "coal": 193,
+        "wind": 329,
+        "solar": 30,
+        "gas": 81
+      },
+      "datetime": "2023-04-16T23:00:00.000Z",
+      "powerProductionTotal": 946
+    },
+    {
+      "powerProductionBreakdown": {
+        "biomass": 320,
+        "coal": 187,
+        "wind": 331,
+        "solar": 27,
+        "gas": 83
+      },
+      "datetime": "2023-04-17T00:00:00.000Z",
+      "powerProductionTotal": 948
+    },
+    {
+      "powerProductionBreakdown": {
+        "biomass": 323,
+        "coal": 195,
+        "wind": 331,
+        "solar": 27,
+        "gas": 82
+      },
+      "datetime": "2023-04-17T01:00:00.000Z",
+      "powerProductionTotal": 958
+    },
+    {
+      "powerProductionBreakdown": {
+        "biomass": 323,
+        "coal": 195,
+        "wind": 332,
+        "solar": 29,
+        "gas": 82
+      },
+      "datetime": "2023-04-17T02:00:00.000Z",
+      "powerProductionTotal": 961
+    },
+    {
+      "powerProductionBreakdown": {
+        "biomass": 323,
+        "coal": 214,
+        "wind": 335,
+        "solar": 28,
+        "gas": 85
+      },
+      "datetime": "2023-04-17T03:00:00.000Z",
+      "powerProductionTotal": 985
+    },
+    {
+      "powerProductionBreakdown": {
+        "biomass": 323,
+        "coal": 225,
+        "wind": 339,
+        "solar": 29,
+        "gas": 85
+      },
+      "datetime": "2023-04-17T04:00:00.000Z",
+      "powerProductionTotal": 1001
+    },
+    {
+      "powerProductionBreakdown": {
+        "biomass": 327,
+        "coal": 230,
+        "wind": 343,
+        "solar": 31,
+        "gas": 86
+      },
+      "datetime": "2023-04-17T05:00:00.000Z",
+      "powerProductionTotal": 1017
+    },
+    {
+      "powerProductionBreakdown": {
+        "biomass": 331,
+        "coal": 233,
+        "wind": 347,
+        "solar": 36,
+        "gas": 85
+      },
+      "datetime": "2023-04-17T06:00:00.000Z",
+      "powerProductionTotal": 1032
+    },
+    {
+      "powerProductionBreakdown": {
+        "biomass": 330,
+        "coal": 227,
+        "wind": 349,
+        "solar": 40,
+        "gas": 85
+      },
+      "datetime": "2023-04-17T07:00:00.000Z",
+      "powerProductionTotal": 1031
+    },
+    {
+      "powerProductionBreakdown": {
+        "biomass": 340,
+        "coal": 239,
+        "wind": 347,
+        "solar": 37,
+        "gas": 68
+      },
+      "datetime": "2023-04-17T08:00:00.000Z",
+      "powerProductionTotal": 1031
+    },
+    {
+      "powerProductionBreakdown": {
+        "biomass": 339,
+        "coal": 240,
+        "wind": 344,
+        "solar": 38,
+        "gas": 68
+      },
+      "datetime": "2023-04-17T09:00:00.000Z",
+      "powerProductionTotal": 1029
+    },
+    {
+      "powerProductionBreakdown": {
+        "biomass": 338,
+        "coal": 240,
+        "wind": 342,
+        "solar": 40,
+        "gas": 68
+      },
+      "datetime": "2023-04-17T10:00:00.000Z",
+      "powerProductionTotal": 1028
+    },
+    {
+      "powerProductionBreakdown": {
+        "biomass": 337,
+        "coal": 241,
+        "wind": 342,
+        "solar": 39,
+        "gas": 68
+      },
+      "datetime": "2023-04-17T11:00:00.000Z",
+      "powerProductionTotal": 1027
+    },
+    {
+      "powerProductionBreakdown": {
+        "biomass": 336,
+        "coal": 241,
+        "wind": 340,
+        "solar": 40,
+        "gas": 68
+      },
+      "datetime": "2023-04-17T12:00:00.000Z",
+      "powerProductionTotal": 1025
+    },
+    {
+      "powerProductionBreakdown": {
+        "biomass": 335,
+        "coal": 241,
+        "wind": 339,
+        "solar": 41,
+        "gas": 68
+      },
+      "datetime": "2023-04-17T13:00:00.000Z",
+      "powerProductionTotal": 1024
+    },
+    {
+      "powerProductionBreakdown": {
+        "biomass": 335,
+        "coal": 240,
+        "wind": 337,
+        "solar": 40,
+        "gas": 68
+      },
+      "datetime": "2023-04-17T14:00:00.000Z",
+      "powerProductionTotal": 1020
+    },
+    {
+      "powerProductionBreakdown": {
+        "biomass": 335,
+        "coal": 240,
+        "wind": 338,
+        "solar": 39,
+        "gas": 68
+      },
+      "datetime": "2023-04-17T15:00:00.000Z",
+      "powerProductionTotal": 1020
+    },
+    {
+      "powerProductionBreakdown": {
+        "biomass": 336,
+        "coal": 240,
+        "wind": 340,
+        "solar": 37,
+        "gas": 68
+      },
+      "datetime": "2023-04-17T16:00:00.000Z",
+      "powerProductionTotal": 1021
+    },
+    {
+      "powerProductionBreakdown": {
+        "biomass": 337,
+        "coal": 237,
+        "wind": 340,
+        "solar": 36,
+        "gas": 68
+      },
+      "datetime": "2023-04-17T17:00:00.000Z",
+      "powerProductionTotal": 1018
+    },
+    {
+      "powerProductionBreakdown": {
+        "biomass": 339,
+        "coal": 235,
+        "wind": 338,
+        "solar": 34,
+        "gas": 68
+      },
+      "datetime": "2023-04-17T18:00:00.000Z",
+      "powerProductionTotal": 1014
+    },
+    {
+      "powerProductionBreakdown": {
+        "biomass": 340,
+        "coal": 235,
+        "wind": 336,
+        "solar": 30,
+        "gas": 68
+      },
+      "datetime": "2023-04-17T19:00:00.000Z",
+      "powerProductionTotal": 1009
+    },
+    {
+      "powerProductionBreakdown": {
+        "biomass": 341,
+        "coal": 235,
+        "wind": 333,
+        "solar": 29,
+        "gas": 68
+      },
+      "datetime": "2023-04-17T20:00:00.000Z",
+      "powerProductionTotal": 1006
+    },
+    {
+      "powerProductionBreakdown": {
+        "biomass": 342,
+        "coal": 236,
+        "wind": 333,
+        "solar": 30,
+        "gas": 68
+      },
+      "datetime": "2023-04-17T21:00:00.000Z",
+      "powerProductionTotal": 1009
+    },
+    {
+      "powerProductionBreakdown": {
+        "biomass": 343,
+        "coal": 243,
+        "wind": 335,
+        "solar": 29,
+        "gas": 72
+      },
+      "datetime": "2023-04-17T22:00:00.000Z",
+      "powerProductionTotal": 1022
+    },
+    {
+      "powerProductionBreakdown": {
+        "biomass": 344,
+        "coal": 244,
+        "wind": 334,
+        "solar": 29,
+        "gas": 72
+      },
+      "datetime": "2023-04-17T23:00:00.000Z",
+      "powerProductionTotal": 1023
+    },
+    {
+      "powerProductionBreakdown": {
+        "biomass": 344,
+        "coal": 245,
+        "wind": 336,
+        "solar": 30,
+        "gas": 72
+      },
+      "datetime": "2023-04-18T00:00:00.000Z",
+      "powerProductionTotal": 1027
+    },
+    {
+      "powerProductionBreakdown": {
+        "biomass": 345,
+        "coal": 246,
+        "wind": 342,
+        "solar": 30,
+        "gas": 72
+      },
+      "datetime": "2023-04-18T01:00:00.000Z",
+      "powerProductionTotal": 1035
+    },
+    {
+      "powerProductionBreakdown": {
+        "biomass": 346,
+        "coal": 247,
+        "wind": 350,
+        "solar": 29,
+        "gas": 72
+      },
+      "datetime": "2023-04-18T02:00:00.000Z",
+      "powerProductionTotal": 1044
+    },
+    {
+      "powerProductionBreakdown": {
+        "biomass": 346,
+        "coal": 247,
+        "wind": 356,
+        "solar": 29,
+        "gas": 72
+      },
+      "datetime": "2023-04-18T03:00:00.000Z",
+      "powerProductionTotal": 1050
+    },
+    {
+      "powerProductionBreakdown": {
+        "biomass": 347,
+        "coal": 248,
+        "wind": 359,
+        "solar": 29,
+        "gas": 72
+      },
+      "datetime": "2023-04-18T04:00:00.000Z",
+      "powerProductionTotal": 1055
+    },
+    {
+      "powerProductionBreakdown": {
+        "biomass": 347,
+        "coal": 249,
+        "wind": 361,
+        "solar": 30,
+        "gas": 72
+      },
+      "datetime": "2023-04-18T05:00:00.000Z",
+      "powerProductionTotal": 1059
+    }
+  ]
+ 
